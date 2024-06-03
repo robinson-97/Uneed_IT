@@ -27,3 +27,5 @@ laravel-training/.idea/
 laravel-training/database/database.sqlite
 
 laravel-training/node_modules/
+
+laravel-training/database/
