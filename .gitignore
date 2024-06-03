@@ -18,3 +18,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+laravel-training/storage/
+
+laravel-training/.idea/
