@@ -22,3 +22,8 @@ yarn-error.log
 laravel-training/storage/
 
 laravel-training/.idea/
+
+
+laravel-training/database/database.sqlite
+
+laravel-training/node_modules/
